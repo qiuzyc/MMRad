@@ -1,6 +1,6 @@
-# Thinking like a radiologist
+# MMRad-22K
 
-Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Chest X-ray Interpretation''
+Official code of ''MMRad-22K: tructured Multimodal Evidence for Chest X-ray Report Generation''
 
 <p align="center">
   📤 <a href="https://github.com/qiuzyc/thinking_like_a_radiologist" target="_self">Get Started</a> &nbsp; | &nbsp;
