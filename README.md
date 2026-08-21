@@ -1,5 +1,7 @@
 # MMRad-22K
 
+🎉 Our paper was accepted by EMNLP 2026 as a Findings paper.
+
 Official code of ''MMRad-22K: tructured Multimodal Evidence for Chest X-ray Report Generation''
 
 <p align="center">
