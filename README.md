@@ -73,7 +73,7 @@ bash combined.sh
 
 ## TODO 
 - [ ] Release training and inference codes
-- [ ] Release full MMRad-IVL dataset
+- [ ] Release full MMRad-22K dataset
 
 ## Acknowledgements
 - [GeMeX-ThinkVG](https://huggingface.co/datasets/BoKelvin/GEMeX-ThinkVG)
