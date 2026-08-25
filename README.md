@@ -1,4 +1,4 @@
-# MMRad-22K [EMNLP 2026 Findings]
+# MMRad-22K
 
 <p align="center">
   📤 <a href="https://github.com/qiuzyc/thinking_like_a_radiologist" target="_self">Get Started</a> &nbsp; | &nbsp;
