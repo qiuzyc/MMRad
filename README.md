@@ -11,7 +11,7 @@ Official code of ''MMRad-22K: tructured Multimodal Evidence for Chest X-ray Repo
 </p>
 
 <p align="center">
-<img src="./statistics.png" width="900">
+<img src="./Figures/construction.png" width="950">
 </p>
 
 ## Highlights
