@@ -72,7 +72,7 @@ bash combined.sh
 ```
 
 ## TODO 
-- [ ] Release training and inference codes
+- [x] Release training and inference codes
 - [ ] Release full MMRad-22K dataset
 
 ## Acknowledgements
