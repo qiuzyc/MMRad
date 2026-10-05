@@ -11,6 +11,7 @@
 </p>
 
 ## News
+[2026.10.05] We released full MMRad-22K dataset.
 
 [2026.08.21] Our paper was accepted by EMNLP 2026 as a Findings paper.
 
@@ -70,10 +71,6 @@ Inference consists of `inference.py` and `detokenization.py`. `combined.py` is u
 cd inference
 bash combined.sh
 ```
-
-## TODO 
-- [x] Release training and inference codes
-- [ ] Release full MMRad-22K dataset
 
 ## Acknowledgements
 - [GeMeX-ThinkVG](https://huggingface.co/datasets/BoKelvin/GEMeX-ThinkVG)
